@@ -1,1 +1,4 @@
 rootProject.name = 'Restart4Server'
+
+include 'r4s-core',
+        'r4s-forge-1.16.5'
